@@ -10,7 +10,7 @@ const Home = () => {
       <Navbar/>
       <main  className='p-5'>
         <Section1/>
-        <section className='sm:flex sm:flex-row gap-2 mt-10 flex flex-col items-center'>
+        <section className='md:flex md:flex-row gap-2 mt-10 flex flex-col items-center'>
             <Card1/>
             <Card2/>
             <Card3/>
